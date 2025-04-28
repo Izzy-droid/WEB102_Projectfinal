@@ -12,7 +12,7 @@ body{
 
 .other-col{
   
-  height: 50em;
+  
   width: 75em;
   margin-left: 2em;
   margin-right: 2em;
@@ -83,7 +83,7 @@ a{
   align-items: center;
 }
 .create-img{
-  width:10em;
+  width:12em;
   height:10em;
   margin-right: 2em;
 }
@@ -130,7 +130,7 @@ a{
 .gall-mini{
   border: 1px solid white;
   background-color: grey;
-  width: 25em;
+  width: 30em;
   margin-bottom: 1em;
   padding-left:0.5em;
   padding-top: 0.5em;
@@ -187,4 +187,98 @@ a{
 
 .post-link:hover {
   background-color: #0056b3;
+}
+.title-container{
+  background-color: pink;
+  height: 7em;
+  display:flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  font-family:'Courier New', Courier, monospace;
+  background-image: url('./background_tree.jpg');
+  background-size: cover;
+  justify-content: space-evenly;
+}
+#search{
+  margin-left:25em;
+}
+.s-box{
+  border-radius: 5px;
+  width:20em;
+  height: 1.5em;
+}
+.s-button{
+  background-color: pink;
+  border-radius: 5px;
+  width:5em;
+  height: 1.5em;
+  border: none;
+  color: black;
+}
+#text-title{
+  font-size: 3em;
+  color: white;
+  font-weight: bold;
+}
+#thumbs{
+  width: 2em;
+  height: 2em;
+}
+.bottom-post{
+  display: flex;
+  align-items: center;
+  flex-direction: row;
+}
+.filter_postButtons{
+
+}
+.filt-buttons{
+  background-color: pink;
+  border-radius: 5px;
+  width:10em;
+  height: 2.5em;
+  border: none;
+  color: black;
+  font-size: 10px;
+  margin-right: 1em;
+}
+#post-likes{
+  font-family: 'Courier New', Courier, monospace;
+}
+.post-img{
+  display: flex;
+  justify-content:center;
+  
+}
+.gall-arrange{
+  display: flex;
+  justify-content: center;
+  margin-right: 15em;
+  flex-direction: column;
+  align-items: center;
+}
+.comment-box{
+  width: 25em;
+}
+#comment-container{
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  margin-left: 3em;
+}
+.ppage-container{
+  background-color:blue;
+  margin-top: 5em;
+  ;
+}
+.commments-section{
+  border-top:1px solid white;
+  background-color: red;
+}
+#comment-btn{
+  background:pink;
+  border-radius: 5px;
+  border: none;
 }
