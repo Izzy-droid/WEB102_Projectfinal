@@ -4,7 +4,7 @@ Submitted by: **Isabella Mitchell**
 
 This web app: **Posts about all things manga/anime**
 
-Time spent: **3** hours spent in total
+Time spent: **8** hours spent in total
 
 ## Required Features
 
@@ -23,12 +23,12 @@ The following **required** functionality is completed:
     - title 
     - upvotes count
   - Clicking on a post should direct the user to a new page for the selected post
-- [ ] **Users can view posts in different ways**
+- [X] **Users can view posts in different ways**
   - Users can sort posts by either:
     -  creation time
     -  upvotes count
   - Users can search for posts by title
-- [ ] **Users can interact with each post in different ways**
+- [X] **Users can interact with each post in different ways**
   - The app includes a separate post page for each created post when clicked, where any additional information is shown, including:
     - content
     - image
@@ -70,13 +70,12 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented user stories:
 
 <div>
-    <a href="https://www.loom.com/share/eba2129b7e8c4c7aad4e7c5f33512d88">
+    <a href="https://www.loom.com/share/aba4f799d9ab46b09d8854436341a34a">
     </a>
-    <a href="https://www.loom.com/share/eba2129b7e8c4c7aad4e7c5f33512d88">
-      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/eba2129b7e8c4c7aad4e7c5f33512d88-4def99fec46b8db0-full-play.gif">
+    <a href="https://www.loom.com/share/aba4f799d9ab46b09d8854436341a34a">
+      <img style="max-width:300px;" src="https://cdn.loom.com/sessions/thumbnails/aba4f799d9ab46b09d8854436341a34a-091e214747282a2d-full-play.gif">
     </a>
   </div>
-
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Loom  
 <!-- Recommended tools:
